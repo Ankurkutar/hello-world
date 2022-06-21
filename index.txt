@@ -1,3 +1,7 @@
 
+<<<<<<< HEAD
 this file updated by Ankur
 hello w3 scho0l.com
+=======
+this file updated by 
+>>>>>>> hello-world-images
