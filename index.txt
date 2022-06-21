@@ -7,3 +7,5 @@ this file updated by
 >>>>>>> hello-world-images
 
 this is push tutorial after the pull
+
+aidde some meta tags
